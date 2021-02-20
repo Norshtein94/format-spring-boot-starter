@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "sourceType": "cn.norshtein.format.starter.configuration.FormatProperties",
+      "name": "format.config",
+      "type": "cn.norshtein.format.starter.configuration.FormatProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "cn.norshtein.format.starter.configuration.FormatProperties",
+      "name": "format.config.type",
+      "type": "java.lang.String",
+      "description": "格式化类型"
+    },
+    {
+      "sourceType": "cn.norshtein.format.starter.configuration.FormatProperties",
+      "name": "format.config.name",
+      "type": "java.lang.String",
+      "description": "格式化名称"
+    }
+  ]
+}
